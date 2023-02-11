@@ -1,0 +1,28 @@
+{
+  "name": "xpeducacao",
+  "version": "1.0.0",
+  "description": "Testes Automatizados de API rodando no pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbaracabral/serverRestAPITestPipeline.git"
+  },
+  "keywords": [
+    "test",
+    "cypress",
+    "xpeducacao"
+  ],
+  "author": "Bárbara Cabral da Conceição",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbaracabral/serverRestAPITestPipeline/issues"
+  },
+  "homepage": "https://github.com/barbaracabral/serverRestAPITestPipeline#readme",
+  "dependencies": {
+    "cypress": "^10.11.0",
+    "unique-names-generator": "^4.7.1"
+  }
+}
